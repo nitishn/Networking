@@ -1,0 +1,8 @@
+server: smtp.gmail.com
+port: 587
+FromEmail: <cuppabrownchai@gmail.com>
+ToEmail: <kimperry18@gmail.com>
+SenderName: Nitish Narala
+Subject: Python Gmail SMTP Email
+Message: Hi Kim, this is a message sent by the gmail smtp server using python for our CPE400 class!
+
